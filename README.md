@@ -9,7 +9,7 @@
 A new Flutter project.
 
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Anuragroyan/TodoAppFlutter.git
 
 # Go into project folder
 cd your-repo-name

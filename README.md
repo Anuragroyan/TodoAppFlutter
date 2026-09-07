@@ -1,4 +1,7 @@
-# ✅ To-Do App is a feature-rich Flutter task manager built with MVVM architecture and Provider state management. It supports task CRUD, undo, search, filtering, due dates, Material 3, dark mode, and Hive local storage for a fast, offline-first experience.
+# ✅ To-Do App
+
+# To-Do App is a feature-rich Flutter task manager built with MVVM architecture and Provider state management. It supports task CRUD, undo, search, filtering, due dates, Material 3, dark mode, and Hive local storage for a fast, offline-first experience.
+
 🚀 Getting Started
 
 Follow these steps to set up and run the To-Do App locally.
